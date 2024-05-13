@@ -8,24 +8,13 @@ The bat file expects that the it is in a folder with the following file system:
 Root directory (can be named anything)
 
 ├───Youtube-DL GUI.bat 
-
 ├───Core Files
-
 |   ├───ffmpeg.exe
-
 |   ├───ffplay.exe
-
-
 |   ├───ffprobe.exe
-
 |   ├───youtube-dl.exe
-
 |   └───yt-dlp.exe
-
 ├───Audio
-
 |   └───Playlist
-
 └───Video
-
     └───Playlist
